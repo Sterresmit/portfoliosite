@@ -6,3 +6,13 @@ html body{
 ul{
 	width: 100%;
 }
+
+ul li a{
+	text-decoration: none;
+}
+
+header img{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
