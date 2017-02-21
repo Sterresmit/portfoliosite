@@ -1,5 +1,5 @@
 html body{
-	font-family: helvetica;
+	background-color: #010005;
 	margin: 0;
 	padding: 0;
 	
@@ -9,23 +9,55 @@ ul{
 	width: 100%;
 	height: auto;
 }
+li {
+	display: inline;
+	
+}
 
 ul li a{
+	font-size: 20px;
 	text-decoration: none;
+	letter-spacing: 10px;
+	padding-left: 40px;
+	color: #fefee3;
+}
+.nav{
+	width: 100%; 
+	text-align: center;
 }
 
-header img .headpic{
+header {
 	margin: 0;
-	padding: 0;
-	width: 1200px;
+	padding-top: 30%;
+	width: 100%;
 	height: auto;
+	background: url(/Users/Sterre/Desktop/Interactieontwerp/lights.jpg);
 }
-/* Resize Background*/
-@media only screen and (max-width: 800px) {
+header h1{
+	padding-top: 10%;
+	margin: 0;
+	margin-left: 50px;
+	font-family: 'Cormorant Garamond';
+	font-size: 100px;
+	font-weight: 300;
+	line-height: 100px;
+	text-transform: uppercase;
+	letter-spacing: 20px;
+	color: #fefee3;
+	border-bottom: 4px solid rgb(12, 34,48);
+}
+header h3{
+	font-family: 'Cormorant Garamond';
+	margin-left: 50px;
+	color: #fefee3;
+	letter-spacing: 7px;
+	text-align: right;
+}
 
-    #header{
-            width: 100%;
-            height: auto;
-            background-size: 100% auto !important;
-    }
+@font-face {
+    font-family:'Cormorant Garamond';
+    src: url(/Users/Sterre/Desktop/Interactieontwerp/CormorantGaramond-Light.otf);
 }
+
+
+
