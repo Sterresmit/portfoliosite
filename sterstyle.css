@@ -31,7 +31,7 @@ header {
 	padding-top: 30%;
 	width: 100%;
 	height: auto;
-	background: url(/lights.jpg);
+	background: url(desktop/interactieontwerp/lights.jpg);
 }
 header h1{
 	padding-top: 10%;
@@ -52,6 +52,11 @@ header h3{
 	color: #fefee3;
 	letter-spacing: 7px;
 	text-align: right;
+}
+p{
+	font-size: 20px;
+	margin-left: 50px;
+	color: #fefee3;
 }
 
 @font-face {
