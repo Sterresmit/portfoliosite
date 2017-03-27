@@ -23,9 +23,11 @@ html body{
 	padding-left: 40px;
 	color: #fefee3;
 }
-li :hover{
+
+#menu li a :hover{
 	font-size: 150%;
 }
+
 
 
 #header {
