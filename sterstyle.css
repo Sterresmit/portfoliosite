@@ -29,7 +29,7 @@ html body{
 	border-bottom: 4px solid rgb(12, 34,48);
 }
 .active{
-	text-transform: uppercase;
+	font-style: oblique;
 
 }
 
