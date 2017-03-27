@@ -100,8 +100,24 @@ p{
 	color: #fefee3;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 370px) {
+
+	h1
+	{
+		font-size:50px;
+	}
+}
+
+
+
+@media only screen and (max-width: 317px) {
+	li {
 	font-size: 75%;
+	}
+	h1
+	{
+		font-size:45px;
+	}
 }
 
 @font-face {
