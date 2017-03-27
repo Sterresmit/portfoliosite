@@ -100,6 +100,10 @@ p{
 	color: #fefee3;
 }
 
+@media only screen and (max-width: 320px) {
+	font-size: 75%;
+}
+
 @font-face {
     font-family:'Cormorant Garamond';
     src: url(/CormorantGaramond-Light.otf);
