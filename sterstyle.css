@@ -105,10 +105,13 @@ p{
       font-size: 5em;
    }
 
-   #header h2 {
+   #header h3 {
       font-size: 2em;
    }
 
+   #header2 h1 {
+   	font-size: 3em;
+   }
 }
 
 
