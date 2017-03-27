@@ -23,6 +23,10 @@ html body{
 	padding-left: 40px;
 	color: #fefee3;
 }
+a :hover{
+	
+	font-size: 150%;
+}
 
 
 #header {
