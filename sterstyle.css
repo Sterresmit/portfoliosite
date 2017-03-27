@@ -64,7 +64,7 @@ html body{
 
 }
 #header2 h1{
-	padding-top: 10%;
+	padding-top: 5%;
 	margin: 0;
 	text-align: left;
 	font-family: 'Cormorant Garamond';
@@ -76,13 +76,7 @@ html body{
 	color: #fefee3;
 	border-bottom: 4px solid rgb(12, 34,48);
 }
-#header2 h3{
-	font-family: 'Cormorant Garamond';
-	margin-left: 50px;
-	color: #fefee3;
-	letter-spacing: 7px;
-	text-align: right;
-}
+
 
 #body{
 	min-height: 400px;
