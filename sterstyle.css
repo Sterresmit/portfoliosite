@@ -99,30 +99,18 @@ p{
 	font-size: 20px;
 	color: #fefee3;
 }
+@media only screen and (max-width: 767px) {
 
-@media only screen and (max-width: 370px) {
+   h1 {
+      font-size: 3em;
+   }
 
-	#header h1
-	{
-		font-size:50px;
-		letter-spacing: 10px;
-	}
-	#header2 h1{
-		font-size: 25px;
-		letter-spacing: 10px;
-	}
+   h2 {
+      font-size: 2em;
+   }
+
 }
 
-@media only screen and (max-width: 317px) {
-	#header h1{
-		font-size:45px;
-		letter-spacing: 10px;
-	}
-	#header2 h1{
-		font-size: 20px;
-		letter-spacing: 10px;
-	}
-}
 
 @font-face {
     font-family:'Cormorant Garamond';
