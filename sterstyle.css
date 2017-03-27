@@ -23,8 +23,7 @@ html body{
 	padding-left: 40px;
 	color: #fefee3;
 }
-li a :hover{
-
+li :hover{
 	font-size: 150%;
 }
 
