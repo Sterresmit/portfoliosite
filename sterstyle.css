@@ -26,7 +26,7 @@ html body{
 
 #menu a:hover{
 	font-color: rgba(111, 156, 185, 1);
-	border-bottom: 4px solid rgb(12, 34,48);
+	font-style: oblique;
 }
 .active{
 	font-style: oblique;
