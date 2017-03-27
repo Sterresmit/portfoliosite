@@ -27,7 +27,6 @@ html body{
 #menu a:hover{
 	font-color: rgba(111, 156, 185, 1);
 	border-bottom: 4px solid rgb(12, 34,48);
-	transition-duration: 0.4s;
 }
 
 
