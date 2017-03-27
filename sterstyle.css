@@ -102,21 +102,23 @@ p{
 
 @media only screen and (max-width: 370px) {
 
-	h1
+	#header h1
 	{
 		font-size:50px;
+	}
+	#header2 h1{
+		font-size: 25px;
 	}
 }
 
 
 
 @media only screen and (max-width: 317px) {
-	li {
-	font-size: 75%;
-	}
-	h1
-	{
+	#header h1{
 		font-size:45px;
+	}
+	#header2 h1{
+		font-size: 20px;
 	}
 }
 
