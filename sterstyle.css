@@ -26,6 +26,7 @@ html body{
 
 #menu a:hover{
 	font-size: 150%;
+	border-bottom: 4px solid rgb(12, 34,48);
 }
 
 
