@@ -101,6 +101,10 @@ p{
 }
 @media only screen and (max-width: 767px) {
 
+	#menu li, #menu li a{
+		display: block;
+	}
+
    #header h1 {
       font-size: 5em;
    }
