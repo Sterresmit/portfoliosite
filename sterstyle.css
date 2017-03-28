@@ -117,8 +117,9 @@ article{
 	width: 30%;
 }
 #deliverables img{
-	max-width: 10%;
-	height: auto;
+	max-width:900px;
+	width:100%;
+	height:auto;
 }
 #deliverables h2{
 	font-family:'Cormorant Garamond';
