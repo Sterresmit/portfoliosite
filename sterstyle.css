@@ -94,7 +94,8 @@ html body{
 }
 
 #body h1{
-	font-family:'CormorantGaramond-Light';
+	font-family:'Cormorant Garamond';
+	color: #fefee3;
 	font-style: olbique;
 	text-align: center;
 	font-size: 90px;
@@ -104,7 +105,7 @@ html body{
 
 p{
 	text-align: center;
-	font-family: 'CormorantGaramond-Light'
+	font-family: 'Cormorant Garamond'
 	font-size: 20px;
 	color: #fefee3;
 }
