@@ -109,6 +109,8 @@ p{
 	font-size: 20px;
 	color: #fefee3;
 }
+
+
 #deliverables img{
 	max-width: 10%;
 	height: auto;
@@ -122,7 +124,9 @@ p{
 
 }
 #opdracht{
-	display: inline-block;
+	display: block;
+	float:left;
+	padding: 1% 0 1% 1.6%;
 
 }
 
