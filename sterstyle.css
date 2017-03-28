@@ -130,10 +130,10 @@ article{
 
 }
 
-
-
-
-
+#footer{
+	border: 1px;
+	border-color: white;
+}
 #footer p {
 	text-align: center;
 	font-family: 'Cormorant'
