@@ -117,7 +117,7 @@ article{
 	width: 30%;
 }
 #deliverables img{
-	max-width: auto;
+	width: auto;
 	max-height: 10%;
 }
 #deliverables h2{
