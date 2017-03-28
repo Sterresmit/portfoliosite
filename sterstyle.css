@@ -96,6 +96,10 @@ html body{
 #body h1{
 	font-family:'CormorantGaramond-Light';
 	font-style: olbique;
+	text-align: center;
+	font-size: 90px;
+	font-weight: 300;
+	line-height: 100px;
 }
 
 p{
