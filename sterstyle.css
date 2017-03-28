@@ -109,11 +109,14 @@ p{
 	font-size: 20px;
 	color: #fefee3;
 }
-#deliverables{
+#deliverables img{
+	width: 30%;
 
 }
 
 #week{
+	color: #fefee3;
+	font-family: 'Cormorant Garamond'
 
 
 
