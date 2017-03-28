@@ -93,6 +93,11 @@ html body{
 	margin-top: 3%;
 }
 
+#body h1{
+	font-family:'CormorantGaramond-Light';
+	font-style: olbique;
+}
+
 p{
 	text-align: center;
 	font-family: 'CormorantGaramond-Light'
