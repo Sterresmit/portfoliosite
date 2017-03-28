@@ -109,7 +109,13 @@ p{
 	font-size: 20px;
 	color: #fefee3;
 }
-
+#week{
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+	content:""; 
+	display:table; 
+}
 article{
 	display: block;
 	float:left;
@@ -130,10 +136,10 @@ article{
 
 }
 
-#footer{
-	border: 1px;
-	border-color: white;
-}
+
+
+
+
 #footer p {
 	text-align: center;
 	font-family: 'Cormorant'
