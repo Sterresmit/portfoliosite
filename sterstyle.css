@@ -109,10 +109,14 @@ p{
 	font-size: 20px;
 	color: #fefee3;
 }
-#deliverables img{
-	width: 30%;
+.deliverables img{
+	max-width:900px;
+	width:100%;
+	height:auto;
+
 
 }
+
 
 #week{
 	color: #fefee3;
