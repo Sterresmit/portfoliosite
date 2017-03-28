@@ -110,12 +110,13 @@ p{
 	color: #fefee3;
 }
 
-#footer {
-	background: url(/end.jpg);
-	width: 100%;
-	height: auto;
-
+#footer p {
+	text-align: center;
+	font-family: 'Cormorant Garamond'
+	font-size: 20px;
+	color: #fefee3;
 }
+
 @media only screen and (max-width: 767px) {
 
 	#menu li, #menu li a{
