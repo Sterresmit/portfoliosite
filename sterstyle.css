@@ -116,7 +116,10 @@ article{
 	padding: 1% 0 1% 1.6%;
 	width: 30%;
 }
-
+#deliverables img{
+	max-width: 10%;
+	height: auto;
+}
 #deliverables h2{
 	font-family:'Cormorant Garamond';
 	text-decoration: none;
