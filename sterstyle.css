@@ -109,23 +109,16 @@ p{
 	font-size: 20px;
 	color: #fefee3;
 }
-#week{
-	clear: both;
-	padding: 0px;
-	margin: 0px;
-	content:""; 
-	display:table; 
-}
+
 article{
 	display: block;
-	float:right;
+	float:left;
 	padding: 1% 0 1% 1.6%;
-	width: 25%;
+	width: 30%;
 }
 #deliverables img{
-	max-width:900px;
-	width:100%;
-	height:auto;
+	max-width: 10%;
+	height: auto;
 }
 #deliverables h2{
 	font-family:'Cormorant Garamond';
