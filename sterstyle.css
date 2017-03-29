@@ -111,6 +111,8 @@ p{
 }
 
 article{
+	width: 350px;
+	height: 200px;
 	display: block;
 	float:left;
 	width: 30%;
