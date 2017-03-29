@@ -113,7 +113,7 @@ p{
 article{
 	display: block;
 	float:left;
-	width: 30%;
+	width: 25%;
 }
 #deliverables img{
 	width: 25%;
@@ -132,15 +132,11 @@ article{
 #week{
 	width: 100%;
 	margin-top: 1%;
-	background-color: blue;
-	border-color: white;
-	border: 3px;
 }
 #week a{
 	text-decoration: none;
 }
 #week a:hover{
-	font-color: rgba(111, 156, 185, 1);
 	font-style: oblique;
 }
 
