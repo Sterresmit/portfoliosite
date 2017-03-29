@@ -142,7 +142,9 @@ article{
 	font-style: oblique;
 }
 
-
+#footer{
+	position: fixed;
+}
 
 #footer p {
 	text-align: center;
