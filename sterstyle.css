@@ -111,13 +111,13 @@ p{
 }
 
 article{
-	width: 350px;
-	height: 200px;
 	display: block;
 	float:left;
+	width: 30%;
 }
 #deliverables img{
-	width: 30%;
+	width: 350px;
+	height: 20px;
 	height: auto;
 	float: left;
 
