@@ -113,11 +113,9 @@ p{
 article{
 	display: block;
 	float:left;
-	padding: 1% 0 1% 1.6%;
 	width: 30%;
 }
 #deliverables img{
-	width: 25%;
 	height: auto;
 	float: left;
 
