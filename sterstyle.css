@@ -131,6 +131,8 @@ p{
 }
 
 #week{
+
+	margin: 2%;
 	width: 100%;
 	margin-top: 1%;
 }
@@ -174,9 +176,6 @@ p{
    #opdracht{
    	width: 100%;
    }
-}
-
-
 }
 
 
