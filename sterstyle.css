@@ -136,14 +136,15 @@ p{
 }
 
 #week{
-
 	margin: 2%;
 	width: 100%;
 	margin-top: 1%;
 }
+
 #week a{
 	text-decoration: none;
 }
+
 #week a:hover{
 	font-style: oblique;
 }
