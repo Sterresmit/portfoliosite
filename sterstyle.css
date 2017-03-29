@@ -190,6 +190,10 @@ p{
    #opdracht{
    	width: 100%;
    }
+
+   #week{
+	padding-left: 10px;
+	}
 }
 
 
