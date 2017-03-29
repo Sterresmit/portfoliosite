@@ -177,10 +177,7 @@ article{
    }
 }
 
-@media only screen and (max-width: 900px) {
-	article{
-		width: 50%;
-	}
+
 
 @font-face {
     font-family:'Cormorant Garamond';
