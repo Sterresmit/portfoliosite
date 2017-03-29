@@ -118,19 +118,25 @@ article{
 }
 #deliverables img{
 	height: auto;
+	float: left;
 
 }
 #deliverables h2{
 	font-family:'Cormorant Garamond';
 	text-decoration: none;
-	color: #fefee3;
-	text-align: center;
+	color: #r;
+	float: left;
 	font-size: 20px;
 
 }
 
-
-
+#week{
+	width: 100%;
+	margin-top: 1%;
+	background-color: blue;
+	border-color: white;
+	border: 3px;
+}
 
 
 #footer p {
