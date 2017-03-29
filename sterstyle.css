@@ -105,12 +105,12 @@ html body{
 
 p{
 	text-align: center;
-	font-family: 'Cormorant Garamond'
+	font-family: 'Cormorant Garamond';
 	font-size: 20px;
 	color: #fefee3;
 }
 
-article{
+#opdracht{
 	display: block;
 	float:left;
 	width: 30%;
@@ -132,6 +132,7 @@ article{
 }
 
 #week{
+
 	margin: 2%;
 	width: 100%;
 	margin-top: 1%;
@@ -149,7 +150,7 @@ article{
 
 #footer p {
 	text-align: center;
-	font-family: 'Cormorant'
+	font-family: 'Cormorant';
 	font-size: 20px;
 	color: #fefee3;
 	font-style: oblique;
