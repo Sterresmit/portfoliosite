@@ -124,8 +124,7 @@ article{
 }
 #deliverables h2{
 	font-family:'Cormorant Garamond';
-	text-decoration: none;
-	color: #r;
+	color: #fefee3;
 	float: left;
 	font-size: 20px;
 
@@ -138,7 +137,10 @@ article{
 	border-color: white;
 	border: 3px;
 }
+#week a{
+	text-decoration: none;
 
+}
 
 #footer p {
 	text-align: center;
