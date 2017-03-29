@@ -113,12 +113,12 @@ p{
 article{
 	display: block;
 	float:left;
-	max-width: 30%;
+	width: 30%;
 }
 #deliverables img{
-	max-height: 100px;
+	width: 25%;
+	height: auto;
 	float: left;
-	max-width: 30%;
 
 }
 #deliverables h2{
