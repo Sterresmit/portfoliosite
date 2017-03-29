@@ -111,10 +111,10 @@ p{
 }
 #deliverables h1{
 	font-size: 25px;
-	text-align: left;
+	text-align: center;
 	float:left;
 	width: 100%;
-	border-bottom: 4px solid rgb(12, 34,48);
+	border-bottom: 3px solid #fefee3;
 
 }
 
