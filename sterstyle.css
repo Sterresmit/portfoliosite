@@ -139,8 +139,13 @@ article{
 }
 #week a{
 	text-decoration: none;
-
 }
+#week a:hover{
+	font-color: rgba(111, 156, 185, 1);
+	font-style: oblique;
+}
+
+
 
 #footer p {
 	text-align: center;
