@@ -111,7 +111,7 @@ p{
 }
 
 #opdracht{
-	display: block;
+	display: inline-block;
 	float:left;
 	width: 30%;
 }
