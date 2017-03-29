@@ -172,6 +172,10 @@ article{
    #header2 h1 {
    	font-size: 1.3em;
    }
+
+   article{
+   	width: 100%;
+   }
 }
 
 
