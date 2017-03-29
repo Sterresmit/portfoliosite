@@ -116,7 +116,7 @@ p{
 	width: 30%;
 }
 #deliverables img{
-	max-width: 200px;
+	max-width: 190px;
 	height: auto;
 	float: left;
 
@@ -132,7 +132,7 @@ p{
 
 #week{
 
-	margin: 2%;
+	margin-left: 4%;
 	width: 100%;
 	margin-top: 1%;
 }
