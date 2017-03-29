@@ -116,8 +116,9 @@ article{
 	max-width: 30%;
 }
 #deliverables img{
-	height: auto;
+	max-height: 100px;
 	float: left;
+	max-width: 30%;
 
 }
 #deliverables h2{
