@@ -179,14 +179,10 @@ p{
    }
 
    #header2 h1 {
-   	text-align: center;
+   	padding-left: 10px;
+   	text-align: left;
    	max-width: 100%;
    	font-size: 1.3em;
-   }
-
-
-   #header2{
-   	max-width: 100%;
    }
 
    #opdracht{
@@ -195,7 +191,7 @@ p{
 
    #deliverables{
 	max-width: 100%;
-	margin-left: 20px;
+	padding-left: 10px;
 }
 
    #deliverables h1{
