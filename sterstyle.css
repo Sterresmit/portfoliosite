@@ -157,6 +157,7 @@ p{
 
 #opdracht{
 	display: inline-block;
+	padding-left: 10px;
 	float:left;
 	width: 30%;
 
