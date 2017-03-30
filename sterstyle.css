@@ -178,7 +178,9 @@ p{
    #header h3 {
       font-size: 0.9em;
    }
-
+   #header2{
+   	min-width: 100%;
+   }
    #header2 h1 {
    	padding-left: 10px;
    	text-align: left;
