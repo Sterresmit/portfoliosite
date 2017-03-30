@@ -185,7 +185,7 @@ p{
    #header2 h1 {
    	padding-left: 10px;
    	text-align: left;
-   	max-width: 100%;
+   	width: 100%;
    	font-size: 1.3em;
    }
 
@@ -195,15 +195,8 @@ p{
 
    #deliverables{
    	margin-left: 0;
-	max-width: 100%;
+	width: 100%;
 	padding-left: 15px;
-}
-	#deliverables img {
-	max-width: 190px;
-	text-align: justify;
-	height: auto;
-	float: left;
-
 }
 
    #deliverables h1{
