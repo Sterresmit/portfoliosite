@@ -66,7 +66,6 @@ html body{
 	text-align: right;
 }
 #header2 {
-	padding-left: 70px
 	max-height: 100px;
 	max-width: 100%;
 	margin: 1px;
@@ -77,6 +76,7 @@ html body{
 
 }
 #header2 h1{
+	padding-left: 70px;
 	padding-top: 0.5%;
 	margin: 0;
 	text-align: left;
