@@ -143,16 +143,10 @@ p{
 	text-decoration: none;
 }
 
-#week a:hover{
-	font-style: oblique;
-}
-
 #opdracht{
 	display: inline-block;
 	float:left;
 	width: 30%;
-	padding-left: 150px;
-
 }
 
 #footer{
