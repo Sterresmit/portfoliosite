@@ -168,11 +168,11 @@ p{
 @media only screen and (max-width: 767px) {
 
 	#menu li, #menu li a{
-		display: block;
+	display: block;
 	}
 
    #header h1 {
-      font-size: 4em;
+	font-size: 4em;
    }
 
    #header h3 {
@@ -181,17 +181,19 @@ p{
    #header2{
    	max-width: 100%;
    }
-   
+
    #header2 h1 {
    	padding-left: 0;
-   	text-align: left;
-   	font-size: 1.3em;
+	text-align: left;
+	font-size: 1.3em;
    }
 
-   #opdracht{
-   	width: 100%;
+#opdracht{
+	padding-left: 10px;
+	float:left;
+	width: 100%;
 
-   }
+}
 
    #deliverables{
    	margin-left: 0;
