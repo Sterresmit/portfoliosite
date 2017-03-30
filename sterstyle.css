@@ -190,6 +190,7 @@ p{
    }
 
    #deliverables{
+   	margin-left: 0;
 	max-width: 100%;
 	padding-left: 5px;
 }
