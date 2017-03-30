@@ -48,7 +48,7 @@ html body{
 	padding-top: 10%;
 	margin: 0;
 	text-align: left;
-	font-family: 'Verdana';
+	font-family: 'CormorantGaramond-Light';
 	font-size: 90px;
 	font-weight: 300;
 	line-height: 100px;
@@ -175,7 +175,7 @@ p{
 	}
 
    #header h1 {
-      font-size: 5em;
+      font-size: 4em;
 
    }
 
