@@ -195,6 +195,13 @@ p{
 	max-width: 100%;
 	padding-left: 15px;
 }
+	#deliverables img {
+	max-width: 190px;
+	text-align: center;
+	height: auto;
+	float: left;
+
+}
 
    #deliverables h1{
 	font-size: 25px;
