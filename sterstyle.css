@@ -186,7 +186,7 @@ p{
    }
 
    #opdracht{
-   	width: 100%;
+   	max-width: 100%;
    }
 
    #deliverables{
