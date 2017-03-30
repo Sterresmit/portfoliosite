@@ -178,7 +178,10 @@ p{
    #header h3 {
       font-size: 0.9em;
    }
-
+   #header2{
+   	max-width: 100%;
+   }
+   
    #header2 h1 {
    	padding-left: 0;
    	text-align: left;
