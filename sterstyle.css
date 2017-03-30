@@ -90,7 +90,7 @@ html body{
 
 #body{
 	min-height: 400px;
-	margin-top: 3%;
+	margin-top: 4%;
 	}
 
 #body h1{
@@ -133,7 +133,7 @@ p{
 	text-align: justify;
 	float: left;
 	font-size: 20px;
-	width: 100%;
+
 
 }
 
@@ -149,21 +149,9 @@ p{
 #opdracht{
 	display: inline-block;
 	float:left;
-	max-width: 190px;
 	width: 30%;
 }
 
-#footer{
-	position: absolute;
-}
-
-#footer p {
-	text-align: center;
-	font-family: 'Cormorant Garamond';
-	font-size: 20px;
-	color: #fefee3;
-	font-style: oblique;
-}
 
 @media only screen and (max-width: 767px) {
 
