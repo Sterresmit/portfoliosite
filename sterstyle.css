@@ -135,7 +135,7 @@ p{
 }
 
 #week{
-	width: 100%;
+	width: 80%;
 	margin-top: 1%;
 }
 
@@ -146,6 +146,7 @@ p{
 #opdracht{
 	display: inline-block;
 	float:left;
+	max-width: 190px;
 	width: 30%;
 }
 
