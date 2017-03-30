@@ -183,7 +183,7 @@ p{
    }
 
    #header2 h1 {
-   	padding-left: 0;
+   	padding: 0;
 	text-align: left;
 	font-size: 1.3em;
    }
@@ -201,6 +201,7 @@ p{
    	margin-left: 0;
    	max-width: 100%;
    	margin-right: 0;
+   	padding-right: 0;
    }
 
    #deliverables h1{
@@ -211,8 +212,8 @@ p{
 	}
 
 	#deliverables h2{
-		text-align: justify;
-		font-size: 15px;
+		text-align: center;
+		font-size: 20px;
 	}
 
 
