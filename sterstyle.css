@@ -105,6 +105,7 @@ html body{
 p{
 	max-width: 50%;
 	margin: 0 auto;
+	position: relative;
 	text-align: center;
 	font-family: 'Cormorant Garamond';
 	font-size: 20px;
