@@ -202,10 +202,14 @@ p{
    }
 
    #deliverables h1{
-	font-size: 20px;
-	text-align: justify;
+	font-size: 25px;
+	text-align: center;
 	width: 100%;
 	border-bottom: 3px solid #fefee3;
+	}
+
+	#deliverables h2{
+		text-align: justify;
 	}
 
 
