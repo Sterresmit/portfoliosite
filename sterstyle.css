@@ -184,7 +184,7 @@ p{
    #header2 h1 {
    	padding-left: 10px;
    	text-align: left;
-   	max-width: 100%;
+   	min-width: 100%;
    	font-size: 1.3em;
    }
 
