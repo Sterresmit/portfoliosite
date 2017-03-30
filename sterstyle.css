@@ -182,12 +182,12 @@ p{
    #header2 h1 {
    	padding-left: 10px;
    	text-align: left;
-   	width: 100%;
    	font-size: 1.3em;
    }
 
    #opdracht{
    	width: 100%;
+   	padding-left: 15px;
    }
 
    #deliverables{
