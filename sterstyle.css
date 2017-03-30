@@ -50,13 +50,13 @@ html body{
 	text-align: left;
 	font-family: 'Cormorant Garamond';
 	font-size: 90px;
-	font-weight: lighter;
 	line-height: 100px;
 	text-transform: uppercase;
 	letter-spacing: 20px;
 	color: #fefee3;
 	border-bottom: 4px solid rgb(12, 34,48);
 }
+
 #header h3{
 	font-family: 'Cormorant Garamond';
 	margin-left: 50px;
@@ -96,7 +96,6 @@ html body{
 #body h1{
 	font-family:'Cormorant Garamond';
 	color: #fefee3;
-	font-style: oblique;
 	text-align: center;
 	font-size: 70px;
 	font-weight: 300;
