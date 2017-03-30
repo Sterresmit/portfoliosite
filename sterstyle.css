@@ -48,7 +48,7 @@ html body{
 	padding-top: 10%;
 	margin: 0;
 	text-align: left;
-	font-family: 'CormorantGaramond-Light';
+	font-family: 'Verdana';
 	font-size: 90px;
 	font-weight: 300;
 	line-height: 100px;
@@ -57,6 +57,7 @@ html body{
 	color: #fefee3;
 	border-bottom: 4px solid rgb(12, 34,48);
 }
+
 #header h3{
 	font-family: 'Cormorant Garamond';
 	margin-left: 50px;
@@ -77,7 +78,7 @@ html body{
 	padding-top: 0.5%;
 	margin: 0;
 	text-align: left;
-	font-family: 'CormorantGaramond-Light';
+	font-family: 'Cormorant Garamond';
 	font-size: 30px;
 	font-weight: 300;
 	line-height: 50px;
@@ -175,7 +176,7 @@ p{
 
    #header h1 {
       font-size: 5em;
-      font-family: 'CormorantGaramond-Light'
+
    }
 
    #header h3 {
