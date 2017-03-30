@@ -187,11 +187,11 @@ p{
 
    #opdracht{
    	max-width: 100%;
-   	padding-left: 15px;
    }
 
    #deliverables{
-   	margin-left: 0;
+   	padding-left: 15px;
+	margin-left: 0;
 	max-width: 100%;
 
 }
