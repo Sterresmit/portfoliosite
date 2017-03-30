@@ -195,7 +195,7 @@ p{
 	max-width: 100%;
 	padding-left: 15px;
 }
-	#deliverables img {
+	#deliverables img, #deliverables img h2 {
 	max-width: 190px;
 	text-align: justify;
 	height: auto;
