@@ -113,7 +113,8 @@ p{
 }
 
 #deliverables{
-		margin-left: 150px;
+	max-width: 100%;
+	margin-left: 150px;
 }
 #deliverables h1{
 	font-size: 25px;
@@ -181,6 +182,11 @@ p{
    #opdracht{
    	width: 100%;
    }
+
+   #deliverables{
+	max-width: 100%;
+	margin-left: 20px;
+}
 
    #deliverables h1{
 	font-size: 25px;
