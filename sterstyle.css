@@ -50,7 +50,7 @@ html body{
 	text-align: left;
 	font-family: 'CormorantGaramond-Light';
 	font-size: 90px;
-	font-weight: 300;
+	font-weight: 200;
 	line-height: 100px;
 	text-transform: uppercase;
 	letter-spacing: 20px;
@@ -162,7 +162,7 @@ p{
 
 #footer p {
 	text-align: center;
-	font-family: 'Cormorant';
+	font-family: 'Cormorant Garamond';
 	font-size: 20px;
 	color: #fefee3;
 	font-style: oblique;
