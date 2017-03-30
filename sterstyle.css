@@ -158,7 +158,6 @@ p{
 #opdracht{
 	display: inline-block;
 	float:left;
-	clear: both;
 	width: 30%;
 
 }
