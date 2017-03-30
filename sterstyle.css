@@ -179,12 +179,13 @@ p{
       font-size: 0.9em;
    }
    #header2{
-   	min-width: 100%;
-   }
+   	width: 100%;
+	}
+
    #header2 h1 {
    	padding-left: 10px;
    	text-align: left;
-   	min-width: 100%;
+   	max-width: 100%;
    	font-size: 1.3em;
    }
 
