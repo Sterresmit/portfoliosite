@@ -178,9 +178,6 @@ p{
    #header h3 {
       font-size: 0.9em;
    }
-   #header2{
-   	width: 100%;
-	}
 
    #header2 h1 {
    	padding-left: 10px;
@@ -195,7 +192,7 @@ p{
 
    #deliverables{
    	margin-left: 0;
-	width: 100%;
+	max-width: 100%;
 	padding-left: 15px;
 }
 
