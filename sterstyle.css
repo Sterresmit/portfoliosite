@@ -150,10 +150,7 @@ p{
 	margin-top: 1%;
 
 }
-#week p{
-	text-align: center;
 
-}
 #week a{
 	text-decoration: none;
 }
@@ -164,6 +161,7 @@ p{
 	width: 30%;
 
 }
+
 
 
 @media only screen and (max-width: 767px) {
@@ -182,8 +180,12 @@ p{
 
    #header2 h1 {
    	text-align: center;
-   	max-width: 100%; 
+   	max-width: 100%;
    	font-size: 1.3em;
+   }
+   
+   #header2{
+   	max-width: 100%;
    }
 
    #opdracht{
