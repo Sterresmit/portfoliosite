@@ -139,7 +139,7 @@ p{
 #deliverables p{
 	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
 	color: #fefee3;
-	padding-top: 5px;
+	padding-top: 10px;
 	text-align: left;
 	float: left;
 	font-size: 20px;
@@ -165,7 +165,7 @@ p{
 
 }
 #footer {
-	margin-bottom: 2%;
+	margin-bottom: 5%;
 	width: 100%;
 }
 
