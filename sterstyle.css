@@ -110,7 +110,7 @@ p{
 	margin: 0 auto;
 	position: relative;
 	text-align: center;
-	font-family: 'Cormorant Garamond';
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
 	font-size: 20px;
 	color: #fefee3;
 }
@@ -136,7 +136,7 @@ p{
 
 }
 #deliverables h2{
-	font-family:'Cormorant Garamond';
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
 	color: #fefee3;
 	text-align: left;
 	float: left;
