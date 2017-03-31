@@ -282,6 +282,9 @@ p{
 		text-align: center;
 		font-size: 15px;
 	}
+	#screenshot{
+		max-width: 100%;
+	}
 
 	.popup {
  		 margin: 70px auto;
