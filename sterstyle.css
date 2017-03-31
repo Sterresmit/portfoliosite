@@ -167,10 +167,11 @@ p{
 }
 #footer {
 
- 	right: 0;
- 	bottom: 0;
- 	left: 0;
- 	padding: 4%;
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em;
  	
 }
 
