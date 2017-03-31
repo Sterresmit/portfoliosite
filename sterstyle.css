@@ -218,8 +218,8 @@ p{
   max-height: 100%;
   overflow: auto;
 }
-.screenshot{
-	max-width: 400px;
+#screenshot{
+	max-width: 600px;
 	border-radius: 0%;
 	height: auto;
 }
