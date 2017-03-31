@@ -284,7 +284,15 @@ p{
 		font-size: 15px;
 	}
 
-
+	.popup {
+ 		 margin: 70px auto;
+ 		 padding: 20px;
+ 		 background: #fff;
+ 		 border-radius: 5px;
+ 		 width: 100%;
+ 		 position: relative;
+ 		 transition: all 5s ease-in-out;
+	}
 
 @font-face {
     font-family:'Cormorant Garamond';
