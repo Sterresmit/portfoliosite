@@ -213,14 +213,12 @@ p{
   text-decoration: none;
   color: #333;
 }
-.popup .close:hover {
-  color: orange;
-}
+
 .popup .content {
   max-height: 30%;
   overflow: auto;
 }
-.popup .content img{
+.screenshot{
 	max-width: 400px;
 	border-radius: 0%;
 	height: auto;
