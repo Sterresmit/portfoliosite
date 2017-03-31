@@ -129,6 +129,7 @@ p{
 }
 
 #deliverables img {
+	border-radius: 5em;
 	max-width: 190px;
 	text-align: center;
 	height: auto;
@@ -191,7 +192,7 @@ p{
 	text-align: left;
 	font-size: 1.3em;
    }
-   
+
    p{
 		text-align: center;
 		font-size: 15px;
