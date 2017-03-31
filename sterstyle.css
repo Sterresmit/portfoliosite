@@ -181,7 +181,8 @@ p{
   right: 0;
   background: rgba(0, 0, 0, 0.7);
   transition: opacity 500ms;
-  height: 100%;
+  visibility: hidden;
+  opacity: 0;
 }
 .overlay:target {
   visibility: visible;
