@@ -198,7 +198,7 @@ p{
   padding: 20px;
   background: #fff;
   border-radius: 5px;
-  width: 70%;
+  width: 50%;
   position: relative;
   transition: all 5s ease-in-out;
 }
@@ -215,7 +215,7 @@ p{
 }
 
 .popup .content {
-  max-height: 70%;
+  max-height: 100%;
   overflow: auto;
 }
 .screenshot{
