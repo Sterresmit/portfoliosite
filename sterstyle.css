@@ -191,6 +191,11 @@ p{
 	text-align: left;
 	font-size: 1.3em;
    }
+   
+   p{
+		text-align: center;
+		font-size: 15px;
+	}
 
 	#opdracht{
 	max-width: 100%;
