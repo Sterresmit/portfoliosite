@@ -219,6 +219,7 @@ p{
   overflow: auto;
 }
 #screenshot{
+	content: url(/ss1.png);
 	max-width: 600px;
 	border-radius: 0%;
 	height: auto;
