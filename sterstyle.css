@@ -163,7 +163,10 @@ p{
 	width: 30%;
 
 }
-
+#footer {
+	margin-bottom: 2%;
+	width: 100%;
+}
 
 
 @media only screen and (max-width: 767px) {
